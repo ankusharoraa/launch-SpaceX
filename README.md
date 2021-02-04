@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Below is the lighthouse score from chrome
 
-![Lighthouse score](https://photos.google.com/search/_tra_/photo/AF1QipOuUA36FO8qgByCVsJZoiyMYmydtItRU_SR9DUk)
+![Lighthouse score](https://photos.google.com/search/_tra_/photo/AF1QipOuUA36FO8qgByCVsJZoiyMYmydtItRU_SR9DUk.png)
 
 ## Available Scripts
 
