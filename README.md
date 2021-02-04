@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is deployed at [SPACEX-HEROKU](https://spacex-ankush.herokuapp.com/).
+
+Below is the lighthouse score from chrome
+
+
 
 ## Available Scripts
 
