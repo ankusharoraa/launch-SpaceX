@@ -10,7 +10,7 @@ import { StaticRouter } from 'react-router'
 import App from './src/App';
 import configureStore from './src/redux/configureStore'
 
-const PORT = process.env.PORT || 3006;
+const PORT = process.env.PORT || 8000;
 const app = express();
 
 app.get('/', (req, res) => {
